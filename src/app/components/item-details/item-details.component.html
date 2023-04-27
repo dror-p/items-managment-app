@@ -1,0 +1,25 @@
+<!-- <div *ngFor="let item of items">
+    <h2>
+      <a [routerLink]="['/items', item.id]">{{ item.name }}</a>
+    </h2>
+    <p>{{ item.description }}</p>
+    <p>{{ item.color }}</p>
+  </div>
+   -->
+   <div *ngFor="let item of items">
+    <a routerLink="/items/{{item.id}}">{{item.name}}</a>
+  </div>
+  
+<!--    <div *ngIf="item">
+    <h2>{{ item.name }}</h2>
+    <p>{{ item.description }}</p>
+    <p>{{ item.color }}</p>
+    <p>Created By: {{ item.createdBy }}</p>
+    <p>Created At: {{ item.createdAt | date }}</p>
+    <p>Last Updated By: {{ item.updatedBy }}</p>
+    <p>Last Updated At: {{ item.updatedAt | date }}</p>
+    <button *ngIf="!isEditMode" (click)="editItem()">Edit</button>
+    <button *ngIf="isEditMode" (click)="saveItem(item)">Save</button>
+    <button *ngIf="isEditMode" (click)="cancelEdit()">Cancel</button>
+  </div> -->
+  

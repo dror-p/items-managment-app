@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Item 1",
+      "description": "This is item 1",
+      "color": "red",
+      "createdAt": "2022-01-01T00:00:00Z",
+      "updatedAt": "2022-01-01T00:00:00Z",
+      "createdBy": "John",
+      "updatedBy": "John"
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "description": "This is item 2",
+      "color": "green",
+      "createdAt": "2022-01-02T00:00:00Z",
+      "updatedAt": "2022-01-02T00:00:00Z",
+      "createdBy": "Bar",
+      "updatedBy": "Bar"
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "description": "This is item 3",
+      "color": "blue",
+      "createdAt": "2022-01-02T00:00:00Z",
+      "updatedAt": "2022-01-02T00:00:00Z",
+      "createdBy": "Dror",
+      "updatedBy": "Dror"
+    },
+    {
+      "id": 4,
+      "name": "car accident",
+      "description": "very bad",
+      "color": "yellow",
+      "createdAt": "2023-20-02T00:00:00Z",
+      "updatedAt": "2023-20-02T00:00:00Z",
+      "createdBy": "Dror",
+      "updatedBy": "Dror"
+    },
+    {
+      "id": 4,
+      "name": "Item 4",
+      "description": "This is item 4",
+      "color": "blue",
+      "createdAt": "1997-01-02T00:00:00Z",
+      "updatedAt": "1997-01-02T00:00:00Z",
+      "createdBy": "Gil",
+      "updatedBy": "Gil"
+    },
+    {
+      "id": 5,
+      "name": "TA9",
+      "description": "The best company!",
+      "color": "whithe",
+      "createdAt": "2022-27-05T00:00:00Z",
+      "updatedAt": "2022-27-05T00:00:00Z",
+      "createdBy": "Dror",
+      "updatedBy": "Dror"
+    },
+    {
+      "id": 6,
+      "name": "police",
+      "description": "be aware",
+      "color": "pink",
+      "createdAt": "2022-01-02T00:00:00Z",
+      "updatedAt": "2022-01-02T00:00:00Z",
+      "createdBy": "Aviram",
+      "updatedBy": "Aviram"
+    },
+    {
+      "id": 7,
+      "name": "suspect",
+      "description": "",
+      "color": "grey",
+      "createdAt": "2022-04-12T00:00:00Z",
+      "updatedAt": "2022-04-12T00:00:00Z",
+      "createdBy": "Dror",
+      "updatedBy": "Dror"
+    }
+  ]
